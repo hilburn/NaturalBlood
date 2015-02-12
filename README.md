@@ -1,9 +1,7 @@
-CallowCraft
+Natural Blood
 =========
 
-Enjoy your callow youth!
-
-Modifies the way XP orbs behave - by allowing the user to configure a % chance for them to not drop (0 to disable entirely) and to also enable automatic grouping to reduce server lag.
+Prevents Fake Players binding Blood Magic Items - Though this has been fixed in the dev version of BM 
 
 ## Contributors
 hilburn
